@@ -1,0 +1,18 @@
+header{
+  font-family: $font-poppins;
+  text-align: center;
+  margin: 0 0 4rem;
+  h1{
+    font-weight: $font-200;
+    font-size: 1.5rem;
+    white-space: pre-line;
+    margin: 0 0 1rem;
+  }
+  p{
+    font-weight: $font-400;
+    font-size: $font-size;
+    color: $grayish-blue;
+    max-width: 500px;
+    margin: auto;
+  }
+}
